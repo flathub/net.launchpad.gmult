@@ -5,7 +5,7 @@
 ---
 app-id: net.launchpad.gmult
 runtime: org.gnome.Platform
-runtime-version: '42'
+runtime-version: '43'
 sdk: org.gnome.Sdk
 command: gmult
 
@@ -22,5 +22,5 @@ modules:
     sources:
       - type: git
         url: https://git.launchpad.net/gmult
-        commit: 936818e8f0384c8f5ab4641f2ec9e2fdecb6d3cd
-        tag: '10.0'
+        commit: 9a63db45432c5d9a4d25278a12a5010b6f350f79
+        tag: '11.0'
